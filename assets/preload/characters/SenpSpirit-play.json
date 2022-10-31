@@ -1,0 +1,199 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Angry Senpai Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				4,
+				2
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Angry Senpai UP NOTE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Angry Senpai LEFT NOTE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Angry Senpai RIGHT NOTE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Angry Senpai DOWN NOTE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"anim": "hey",
+			"fps": 24,
+			"name": "Angry Senpai HEY",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"anim": "hey-alt",
+			"fps": 24,
+			"name": "SENPAI HEY",
+			"indices": []
+		},
+		{
+			"offsets": [
+				5,
+				3
+			],
+			"loop": false,
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "SENPAI UP NOTE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "SENPAI LEFT NOTE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "SENPAI RIGHT NOTE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "SENPAI DOWN NOTE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": false,
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Senpai Idle instance",
+			"indices": []
+		},		
+		{
+			"offsets": [
+				4,
+				2
+			],
+			"loop": false,
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Senpai UP MISS NOTE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Senpai RIGHT MISS NOTE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Senpai LEFT MISS NOTE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Senpai DOWN MISS NOTE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/senpai-nightm",
+	"position": [
+		-50,
+		130
+	],
+	"healthicon": "icon-senpai-sp",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		170,
+		111
+	],
+	"camera_position": [
+		240,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 6
+}
